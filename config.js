@@ -2,7 +2,7 @@
     server: {
         /*caso deixe como true, aparecera no topo do site o icone do servidor, nome e um botão escrito entrar, caso não queira apenas deixe como false */
         ativado: true,
-        id: '998334883665543218',
+        id: '1264322582375563346',
         convite: 'https://discord.gg/147'
     },
     bot: {

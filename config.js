@@ -6,7 +6,7 @@
         convite: 'https://discord.gg/147'
     },
     bot: {
-        token: 'MTE1MTk5MDY2OTk1OTc1NzgzNA.GU43zA.j1TUWtwlsuR0VC-SWLz2_CIwtfjwmGuQXKXYo8'
+        token: 'MTE1MTk5MDY2OTk1OTc1NzgzNA.G8KiQi.OwsNnd2UsOcADu1GbXr_y1b2nI8JluZsuCEwQw'
     },
     pagina: {
         /*particulas que saem do mouse ao mexer*/
